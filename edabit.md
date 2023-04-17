@@ -1,4 +1,4 @@
-## [1.Convert Minutes into Seconds](https://edabit.com/challenge/8q54MKnRrm89pSLmW)
+## [13.Convert Minutes into Seconds](https://edabit.com/challenge/8q54MKnRrm89pSLmW)
 
 **Answer**
 
@@ -23,7 +23,7 @@ function convert(minutes) {
 
 ``
 
-## [2.Area of a Triangle](https://edabit.com/challenge/3CaszbdZYGN4otQD8)
+## [14.Area of a Triangle](https://edabit.com/challenge/3CaszbdZYGN4otQD8)
 
 
 **Answer**
@@ -47,7 +47,7 @@ function triArea(base, height) {
 ``
 
 
-## [3.Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
+## [15.Return the First Element in an Array](https://edabit.com/challenge/QaApgtePE6QrCZ64o)
 
 
 **Answer**
@@ -70,7 +70,7 @@ function getFirstValue(arr) {
 
 ``
 
-## [4.Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
+## [16.Convert Hours into Seconds](https://edabit.com/challenge/6AnQqiEjkJdZrWhPS)
 
 
 **Answer**
@@ -92,7 +92,7 @@ function howManySeconds(hours) {
 
 ``
 
-## [5.Return the Remainder from Two Numbers](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
+## [17.Return the Remainder from Two Numbers](https://edabit.com/challenge/Q2j5FTFtsk7PdzrQk)
 
 **Answer**
 ``js
@@ -116,7 +116,7 @@ function remainder(x, y) {
 
 ``
 
-## [6.Return Something to Me!](https://edabit.com/challenge/MvZK536X7fyrWH8Qc)
+## [18.Return Something to Me!](https://edabit.com/challenge/MvZK536X7fyrWH8Qc)
 
 **Answer**
 
@@ -143,7 +143,7 @@ function giveMeSomething(a) {
 ===========================================================================================
 
 
-## [7.Sum of Polygon Angles](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG)
+## [19.Sum of Polygon Angles](https://edabit.com/challenge/fBJyQSe5Jmbm9hPAG)
 
 **Answer**
 
@@ -168,7 +168,7 @@ function sumPolygon(n) {
 }
 
 ``
-## [8.Basic Variable Assignment](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
+## [20.Basic Variable Assignment](https://edabit.com/challenge/ZNwHGgHvsdnYwJ5WK)
 
 **Answer**
 
@@ -196,7 +196,7 @@ function nameString(name){
 ``
 
 
-## [9.Convert Hours and Minutes into Seconds](https://edabit.com/challenge/JesaFi5ntBEbGT8bu)
+## [21.Convert Hours and Minutes into Seconds](https://edabit.com/challenge/JesaFi5ntBEbGT8bu)
 
 **Answer**
 
@@ -222,7 +222,7 @@ function convert(hours, minutes) {
 ``
 
 
-## [10.Equality Check](https://edabit.com/challenge/BGvTMfwxYDRbtaTJ3)
+## [22.Equality Check](https://edabit.com/challenge/BGvTMfwxYDRbtaTJ3)
 
 **Answer**
 

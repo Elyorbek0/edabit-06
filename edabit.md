@@ -162,8 +162,9 @@ function sumPolygon(n) {
 }
 
 
+
 function sumPolygon(n) {
-javob=====================================================================================	
+	return (n - 2) * 180
 }
 
 ``
@@ -242,11 +243,7 @@ function checkEquality(a, b) {
 }
 
 function checkEquality(a, b) {
-	if(typeof(a)===typeof(b)){
-		return true
-	}else{
-		return false
-	}
+    return a === b
 }
 
 ``
